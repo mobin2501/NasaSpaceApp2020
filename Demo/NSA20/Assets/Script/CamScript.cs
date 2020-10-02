@@ -12,7 +12,7 @@ public class CamScript : MonoBehaviour
     private void Update()
     {
         y = rc.transform.position.y;
-        pos = new Vector3(0, y+4, -25);
+        pos = new Vector3(0, y+4, -60);
         cam.transform.position =  pos;
     }
 }
