@@ -4,5 +4,68 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 6f6231f57eaab314bbee75e21748eb92
+  - enabled: 1
+    path: Assets/SelectSystem.unity
+    guid: 55091ae5d11efde4d88dd110f77a0272
+  - enabled: 1
+    path: Assets/SolarSystem.unity
+    guid: 6ef76d4c28e247d4a8f6693488e938e5
+  - enabled: 1
+    path: Assets/AlphaCentauriB.unity
+    guid: d5cda23c3749057488c5fe0500051c13
+  - enabled: 1
+    path: Assets/Gliese667.unity
+    guid: ecce5dccd72c6d74c9187fd7deed3d14
+  - enabled: 1
+    path: Assets/Kepler186.unity
+    guid: da0f7dd385829144b94e81a1fb3bcf22
+  - enabled: 1
+    path: Assets/Luyten.unity
+    guid: 867cce9fdde956446a34b893121455af
+  - enabled: 1
+    path: Assets/Destination.unity
+    guid: 3fe1b60147c6e714c9eda07bafbefe37
+  - enabled: 1
+    path: Assets/TryAgain.unity
+    guid: 36ed98b1cb340c941b1db7c7ccc61330
+  - enabled: 1
+    path: Assets/Quiz.unity
+    guid: 55711fbec694ca44b8cd58730bafd965
+  - enabled: 1
+    path: Assets/Quiz2.unity
+    guid: 3be352e2f847d764d92b46e4b0561ad9
+  - enabled: 1
+    path: Assets/Quiz3.unity
+    guid: 2aaeee51c2a8da84c80c180c8de5d791
+  - enabled: 1
+    path: Assets/Quiz4.unity
+    guid: d45d6fd50c15c1b4a90990e277caeea2
+  - enabled: 1
+    path: Assets/WellDone.unity
+    guid: d887bd32a7298534e8b841e3582830ce
+  - enabled: 1
+    path: Assets/QuizMenu.unity
+    guid: fcf5b2c673bab854084d1bd545009cb9
+  - enabled: 1
+    path: Assets/Wrong Answer.unity
+    guid: 12fc0456517edb6489ef99578646d892
+  - enabled: 1
+    path: Assets/Right Answer.unity
+    guid: 35e9bce7fedb23047a26c6a4fa53ed19
+  - enabled: 1
+    path: Assets/Error.unity
+    guid: 2e7b1cc3b13543644a88f3385986fc7e
+  - enabled: 1
+    path: Assets/Error3.unity
+    guid: 5d326888a455a634f9269930daad937b
+  - enabled: 1
+    path: Assets/Error2.unity
+    guid: 1677523586900b04aa919e11722f4e80
+  - enabled: 1
+    path: Assets/Error1.unity
+    guid: cb122494c7d41424badc34a6397b793c
   m_configObjects: {}

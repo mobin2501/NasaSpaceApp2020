@@ -63,10 +63,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Back.cs" />
     <Compile Include="Assets\Script\CamScript.cs" />
+    <Compile Include="Assets\Script\Exit.cs" />
+    <Compile Include="Assets\Script\GlieseButton.cs" />
+    <Compile Include="Assets\Script\KeplerButton.cs" />
+    <Compile Include="Assets\Script\LuytenButton.cs" />
+    <Compile Include="Assets\Script\NextQ.cs" />
+    <Compile Include="Assets\Script\ProximaButton.cs" />
+    <Compile Include="Assets\Script\Q1.cs" />
+    <Compile Include="Assets\Script\Q2.cs" />
+    <Compile Include="Assets\Script\Q3.cs" />
+    <Compile Include="Assets\Script\Q4.cs" />
+    <Compile Include="Assets\Script\QElse.cs" />
+    <Compile Include="Assets\Script\Qmenu.cs" />
+    <Compile Include="Assets\Script\QuizButton.cs" />
     <Compile Include="Assets\Script\RocketScript.cs" />
     <Compile Include="Assets\Script\RotationScript.cs" />
+    <Compile Include="Assets\Script\Score.cs" />
+    <Compile Include="Assets\Script\SolarSailCam.cs" />
+    <Compile Include="Assets\Script\SolarSystemButton.cs" />
     <Compile Include="Assets\Script\StartButton.cs" />
+    <Compile Include="Assets\Script\TryAgain.cs" />
+    <Compile Include="Assets\Script\WrongAns.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Editor/2019.4.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Plane
   - Planet
+  - Asteroid
+  - BigPlanet
   layers:
   - Default
   - TransparentFX

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class StartButton : MonoBehaviour
 {
@@ -16,6 +17,6 @@ public class StartButton : MonoBehaviour
     }
     void Task()
     {
-        Debug.Log("Boo");
+        SceneManager.LoadScene(1);
     }
 }
